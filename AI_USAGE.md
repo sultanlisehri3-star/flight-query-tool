@@ -3,10 +3,12 @@
 ## Tools used
 
 - ChatGPT (Codex, GPT-6)
+- Claude (Anthropic)
 
 ## Conversation links
 
 - ChatGPT (Codex): pending share link.
+- [Claude conversation](https://claude.ai/share/0a23d8a0-7b2c-492e-8f38-8e41328dbf9b)
 
 ## What I used AI for
 
